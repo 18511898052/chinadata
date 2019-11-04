@@ -6,6 +6,7 @@
             "email": "huangshuai@chinadata8.com"
         }
     ],
+    "version": "v1.0.0",
     "require": {},
     "autoload": { 
       "psr-4": {
