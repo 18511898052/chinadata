@@ -3,6 +3,6 @@
 namespace Test;
 class IndexController{
 	public function test(){
-		echo'test one hook';    
+		echo'test one one hook';    
 	}
 }
