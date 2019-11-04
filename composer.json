@@ -1,0 +1,15 @@
+{
+    "name": "chinadata/first",
+    "authors": [
+        {
+            "name": "hs",
+            "email": "huangshuai@chinadata8.com"
+        }
+    ],
+    "require": {},
+    "autoload": { 
+      "psr-4": {
+        "Test\\": "src/"
+      }
+    }
+}

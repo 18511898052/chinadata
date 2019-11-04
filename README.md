@@ -1,2 +1,2 @@
 # chinadata
-chinadata composer test
+composer test 
