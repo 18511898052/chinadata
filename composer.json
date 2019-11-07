@@ -6,8 +6,6 @@
             "email": "huangshuai@chinadata8.com"
         }
     ],
-    "version": "v1.0.0",
-    "description": "my first project",
     "license": "Apache-2.0",
     "require": {},
     "autoload": { 
