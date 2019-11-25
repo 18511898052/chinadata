@@ -1,6 +1,6 @@
 <?php
 
-use Test\IndexController;
+use First\IndexController;
 
 require 'vendor/autoload.php';
 $auth = new IndexController();
