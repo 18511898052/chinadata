@@ -1,6 +1,5 @@
 <?php
 
-#bbbbbbbbbbbbb
 use First\IndexController;
 
 require 'vendor/autoload.php';
